@@ -8,7 +8,7 @@ To make things completely seamless for we all and to also make collaboration mor
 
 ## Get started:
 
-The most important thing! Please update the README.md with your team as collaborator at bottom of this docs.
+The most important thing! Please update the README.md with your name in collaborator section at bottom of this docs. Once that's done the team lead will add you to their team and to the org. 
 
 ##### For Developer
 - Kindly star the project :wink:
