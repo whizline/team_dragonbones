@@ -8,6 +8,8 @@ To make things completely seamless for we all and to also make collaboration mor
 
 ## Get started:
 
+The most important thing! Please update the README.md with your team as collaborator at bottom of this docs.
+
 ##### For Developer
 - Kindly star the project :wink:
 - Open an issue to a feature or a change you'd love to work on (please, ensure that someone is not already working on it by checking previous issues. Whereby an issue already exist, please still go ahead with the steps below and help the collaborator finish up the feature or changes)
@@ -24,5 +26,20 @@ To make things completely seamless for we all and to also make collaboration mor
 - Move forward with a PR in designs folder 
 - Get merged and the design officially becomes the design for the project.
 
+## Teams
+- Back-end Team - [@hng-teamdrangonbones/backend-team](https://github.com/orgs/hng-teamdrangonbones/teams/backend-team)
+- Front-end Team - [@hng-teamdrangonbones/frontend-team](https://github.com/orgs/hng-teamdrangonbones/teams/frontend-team)
+- Design Team - [@hng-teamdrangonbones/design-team](https://github.com/orgs/hng-teamdrangonbones/teams/design-team)
 
-This will be lots of issue, but this provide a public archive to help track progress and how things will over the next few months. Good Luck Developers! Happy Hacking"
+## Collaborators
+
+- Abraham Jr. Agiri - [@codeekage](https://github.com/codeekage) - Team Dragon Bones Lead
+
+- Example Name - [@github-handle] - @hng-teamdrangonbones/team-name - Position (ENUMS[Member, Lead])
+
+
+
+This will be lots of issue, but this provide a public archive to help track progress and how things will over the next few months.
+Good Luck Developers! Happy Hacking!
+
+
