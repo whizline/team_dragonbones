@@ -21,7 +21,7 @@ The most important thing! Please update the README.md with your name in collabor
 
 ##### For Designers: 
 - Kindly star the project 
-- Open an issue, drop the link to the issue 
+- Open an issue, drop the link to the design (and maybe a screenshot) in the issue 
 - Get reviews from other collaborators (if they love it)
 - Move forward with a PR in designs folder 
 - Get merged and the design officially becomes the design for the project.
