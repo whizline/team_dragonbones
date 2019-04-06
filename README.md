@@ -43,6 +43,8 @@ That will be lots of issue. Yea! true, but this provide a public archive to help
 - Alikali Ojonugwa - [@ojonugwa001](https://github.com/ojonugwa001) -  @hng-teamdrangonbones/frontend-team - Team Lead
 - Kingsley Omin - [@ojonugwa001](https://github.com/ojonugwa001) -  @hng-teamdrangonbones/design-team - Team Lead
 
+-Chidozie Ndukaku - [@ChidozieNdukaku] - @hng-teamdrangonbones/frontend & backend-team - Member
+
 - Example Name - [@github-handle] - @hng-teamdrangonbones/team-name - Position (ENUMS[Member, Lead])
 
 
