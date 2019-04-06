@@ -37,6 +37,8 @@ That will be lots of issue. Yea! true, but this provide a public archive to help
 
 - Abraham Jr. Agiri - [@codeekage](https://github.com/codeekage) - Team Dragon Bones Lead
 
+-Chidozie Ndukaku - [@ChidozieNdukaku] - @hng-teamdrangonbones/frontend & backend-team - Member
+
 - Example Name - [@github-handle] - @hng-teamdrangonbones/team-name - Position (ENUMS[Member, Lead])
 
 
