@@ -44,13 +44,10 @@ That will be lots of issue. Yea! true, but this provide a public archive to help
 - Alexzender Samuel - [@alexzender45](https://github.com/alexzender45) -  @hng-teamdrangonbones/fontend-team - Member
 - Ogundiji Bolade - [@adroit11](https://github.com/adroit11) -  @hng-teamdrangonbones/backend-team && design - Member
 - Alikali Ojonugwa - [@ojonugwa001](https://github.com/ojonugwa001) -  @hng-teamdrangonbones/frontend-team - Team Lead
+- Kingsley Omin - [@ojonugwa001](https://github.com/ojonugwa001) -  @hng-teamdrangonbones/design-team - Team Lead
+- Irene Okafor - [@Irene-24](https://github.com/Irene-24) -  @hng-teamdrangonbones/frontend-team - member
 - Raphael Noriode -[@oghenebrume50](https://github.com/oghenebrume50) @hng-teamdrangonbones/frontend-team- Member
-
-- Kingsley Omin - [@kingsleyomin](https://github.com/kingsleyomin) -  @hng-teamdrangonbones/design-team - Team Lead
-
 - Jude Jonathan - [@JonathanJude](https://github.com/JonathanJude) - @hng-teamdrangonbones/backend-team - Member
-
 - Chidozie Ndukaku - [@ChidozieNdukaku] - @hng-teamdrangonbones/frontend & backend-team - Member
-
 - Example Name - [@github-handle] - @hng-teamdrangonbones/team-name - Position (ENUMS[Member, Lead])
 
