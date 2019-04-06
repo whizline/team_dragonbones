@@ -49,5 +49,6 @@ That will be lots of issue. Yea! true, but this provide a public archive to help
 - Raphael Noriode -[@oghenebrume50](https://github.com/oghenebrume50) @hng-teamdrangonbones/frontend-team- Member
 - Jude Jonathan - [@JonathanJude](https://github.com/JonathanJude) - @hng-teamdrangonbones/backend-team - Member
 - Chidozie Ndukaku - [@ChidozieNdukaku] - @hng-teamdrangonbones/frontend & backend-team - Member
+- Samuel Egahi Okwori - [@egahi](https://github.com/egahi) - @hng-teamdrangonbones/backend-team - Member
 - Example Name - [@github-handle] - @hng-teamdrangonbones/team-name - Position (ENUMS[Member, Lead])
 
