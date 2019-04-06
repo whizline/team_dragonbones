@@ -2,7 +2,7 @@
 Hotel HNGs Team Dragon Bones GitHub
 
 
-# Collabration and Contribution
+# Collaboration and Contribution
 
 To make things completely seamless for we all and to also make collaboration more effiecent we've extended our collaboration to GitHub from Slack. It's important that we also learn the use of GitHub and to use GitHub effiecently for project collaboration. 
 
