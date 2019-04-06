@@ -41,11 +41,21 @@ That will be lots of issue. Yea! true, but this provide a public archive to help
 - Abraham Jr. Agiri - [@codeekage](https://github.com/codeekage) - Team Dragon Bones Lead
 - Sholademi Elijah - [@haywhy43](https://github.com/haywhy43) @hng-teamdrangonbones/frontend-team- Member
 - Tobalase Akinyemi - [@funspectre](https://github.com/funspectre) - @hng-teamdrangonbones/backend-team - Member
+- Alexzender Samuel - [@alexzender45](https://github.com/alexzender45) -  @hng-teamdrangonbones/fontend-team - Member
+- Ogundiji Bolade - [@adroit11](https://github.com/adroit11) -  @hng-teamdrangonbones/backend-team && design - Member
+- Alikali Ojonugwa - [@ojonugwa001](https://github.com/ojonugwa001) -  @hng-teamdrangonbones/frontend-team - Team Lead
+- Kingsley Omin - [@kingsleyomin](https://github.com/kingsleyomin) -  @hng-teamdrangonbones/design-team - Team Lead
+
+- Example Name - [@github-handle] - @hng-teamdrangonbones/team-name - Position (ENUMS[Member, Lead])
+
+
+
 - Alexzender Samuel - [@alexzender45](https://github.com/alexzender45) - @hng-teamdrangonbones/fontend-team - Member
 - Ogundiji Bolade - [@adroit11](https://github.com/adroit11) - @hng-teamdrangonbones/backend-team && design - Member
 - Alikali Ojonugwa - [@ojonugwa001](https://github.com/ojonugwa001) - @hng-teamdrangonbones/frontend-team - Team Lead
 - Kingsley Omin - [@ojonugwa001](https://github.com/ojonugwa001) - @hng-teamdrangonbones/design-team - Team Lead
 - Jude Jonathan - [@JonathanJude](https://github.com/JonathanJude) - @hng-teamdrangonbones/backend-team - Member
+
 
 -Chidozie Ndukaku - [@ChidozieNdukaku] - @hng-teamdrangonbones/frontend & backend-team - Member
 
