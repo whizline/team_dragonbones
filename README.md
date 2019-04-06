@@ -36,6 +36,7 @@ That will be lots of issue. Yea! true, but this provide a public archive to help
 ## Collaborators
 
 - Abraham Jr. Agiri - [@codeekage](https://github.com/codeekage) - Team Dragon Bones Lead
+- Sholademi Elijah - [@haywhy43](https://github.com/haywhy43) @hng-teamdrangonbones/frontend-team- Member
 - Tobalase Akinyemi - [@funspectre](https://github.com/funspectre) - @hng-teamdrangonbones/backend-team - Member
 - Alexzender Samuel - [@alexzender45](https://github.com/alexzender45) -  @hng-teamdrangonbones/fontend-team - Member
 - Ogundiji Bolade - [@adroit11](https://github.com/adroit11) -  @hng-teamdrangonbones/backend-team && design - Member
