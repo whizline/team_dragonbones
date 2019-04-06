@@ -4,7 +4,7 @@ Hotel HNGs Team Dragon Bones GitHub
 
 # Collaboration and Contribution
 
-To make things completely seamless for we all and to also make collaboration more effiecent we've extended our collaboration to GitHub from Slack. It's important that we also learn the use of GitHub and to use GitHub effiecently for project collaboration. 
+To make things completely seemless for we all and to also make collaboration more efficient. We've extended our collaboration to GitHub from Slack. It's important that we also learn the use of GitHub and how-to GitHub efficiently for project collaboration. 
 
 ## Get started:
 
@@ -12,11 +12,11 @@ The most important thing! Please update the README.md with your name in collabor
 
 ##### For Developer
 - Kindly star the project :wink:
-- Open an issue to a feature or a change you'd love to work on (please, ensure that someone is not already working on it by checking previous issues. Whereby an issue already exist, please still go ahead with the steps below and help the collaborator finish up the feature or changes)
+- Open an issue for a feature or a change you'd love to work on (please, ensure that someone is not working on it by checking previous issues. Whereby an issue already exist, please still go ahead with the steps below and help the collaborator finish up the feature or changes)
 - Fork the repo 
 - Make your changes 
 - Push and create a PR
-- Get approvals from other collaborators (if successful, you code gets merged)
+- Get approvals from other collaborators (if successful, your code gets merged)
 - Congratulations
 
 ##### For Designers: 
@@ -24,7 +24,9 @@ The most important thing! Please update the README.md with your name in collabor
 - Open an issue, drop the link to the design (and maybe a screenshot) in the issue 
 - Get reviews from other collaborators (if they love it)
 - Move forward with a PR in designs folder 
-- Get merged and the design officially becomes the design for the project.
+- Get merged and the design officially becomes the design for the project.'
+
+That will be lots of issue. Yea! true, but this provide a public archive to help track progress and how things will be over the next few months. Good Luck Developers! Happy Hacking!
 
 ## Teams
 - Back-end Team - [@hng-teamdrangonbones/backend-team](https://github.com/orgs/hng-teamdrangonbones/teams/backend-team)
@@ -39,7 +41,6 @@ The most important thing! Please update the README.md with your name in collabor
 
 
 
-This will be lots of issue, but this provide a public archive to help track progress and how things will over the next few months.
-Good Luck Developers! Happy Hacking!
+
 
 
