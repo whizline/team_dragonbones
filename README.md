@@ -38,7 +38,7 @@ That will be lots of issue. Yea! true, but this provide a public archive to help
 - Abraham Jr. Agiri - [@codeekage](https://github.com/codeekage) - Team Dragon Bones Lead
 - Tobalase Akinyemi - [@funspectre](https://github.com/funspectre) - @hng-teamdrangonbones/backend-team - Member
 - Alexzender Samuel - [@alexzender45](https://github.com/alexzender45) -  @hng-teamdrangonbones/fontend-team - Member
-- Ogundiji Bolade - [@adroit11](https://github.com/adroit11) -  @hng-teamdrangonbones/backend-team - Member
+- Ogundiji Bolade - [@adroit11](https://github.com/adroit11) -  @hng-teamdrangonbones/backend-team && design - Member
 
 - Example Name - [@github-handle] - @hng-teamdrangonbones/team-name - Position (ENUMS[Member, Lead])
 
