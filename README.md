@@ -2,7 +2,7 @@
 
 Hotel HNGs Team Dragon Bones GitHub
 
-# Collaboration and Contribution
+# Collaboration
 
 To make things completely seemless for we all and to also make collaboration more efficient. We've extended our collaboration to GitHub from Slack. It's important that we also learn the use of GitHub and how-to GitHub efficiently for project collaboration.
 
@@ -50,10 +50,21 @@ That will be lots of issue. Yea! true, but this provide a public archive to help
 - Raphael Noriode -[@oghenebrume50](https://github.com/oghenebrume50) @hng-teamdrangonbones/frontend-team- Member
 - Jude Jonathan - [@JonathanJude](https://github.com/JonathanJude) - @hng-teamdrangonbones/backend-team - Member
 - Oranye Nonso -[@OranyeNonso](https://github.com/OranyeNonso) - @hng-teamdragonbones/backend & frontend-team - Member
-- Chidozie Ndukaku - [@ChidozieNdukaku] - @hng-teamdrangonbones/frontend & backend-team - Member
+- Chidozie Ndukaku - [@ChidozieNdukaku](https://github.com/ChidozieNdukaku) - @hng-teamdrangonbones/frontend & backend-team - Member
 - Samuel Egahi Okwori - [@egahi](https://github.com/egahi) - @hng-teamdrangonbones/backend-team - Member
 - Rogers Peter Ukeje- [@whizline](https://github.com/whizline) - @hng-teamdrangonbones/frontend -  Member
-
+- Simeon Bello - [@Seybel](https://github.com/Seybel) - @hng-teamdrangonbones/frontend-team - Member
+- Justice Otuya - [@justiceotuya](https://github.com/justiceotuya) - @hng-teamdrangonbones/frontend-team - Member
 
 - Example Name - [@github-handle] - @hng-teamdrangonbones/team-name - Position (ENUMS[Member, Lead])
 
+## Contributions
+
+The project structure is simple.
+- Page content goes in index.php file (for now, it's a single page app)
+- Page header markup goes in templates/header.php
+- Page footer markup goes in templates/footer.php
+- All styling goes in css/style.css
+- All scripting goes in js/script.js 
+- Blog Posts gets saved in BlogPosts/[name_of_file].json<br/>
+PS: We would refactor as the project grows.
