@@ -36,11 +36,10 @@ That will be lots of issue. Yea! true, but this provide a public archive to help
 ## Collaborators
 
 - Abraham Jr. Agiri - [@codeekage](https://github.com/codeekage) - Team Dragon Bones Lead
-
 - Tobalase Akinyemi - [@funspectre](https://github.com/funspectre) - @hng-teamdrangonbones/backend-team - Member
+- Alexzender Samuel - [@alexzender45](https://github.com/alexzender45) -  @hng-teamdrangonbones/fontend-team - Member
 
 - Example Name - [@github-handle] - @hng-teamdrangonbones/team-name - Position (ENUMS[Member, Lead])
-- Alexzender Samuel - [@alexzender45](https://github.com/alexzender45) -  @hng-teamdrangonbones/fontend-team - Member
 
 
 
